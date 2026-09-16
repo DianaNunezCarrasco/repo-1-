@@ -13,4 +13,5 @@ Puedes crear proyectos *públicos*, en los que el código puede ser descargado y
    -  Permite compilar, probar y desplegar aplicaciones de forma automática dentro de la misma plataforma
    -  Funciona como una red social para programadores donde se puede *aprender de proyectos públicos, experimentar y contribuir al software libre*
 ## LA EMPRESA DETRÁS DE GITHUB
-**Microsoft** es la empresa que está detrás de GitHub desde que la adquirió en el año 2018
+**Microsoft** es la empresa que está detrás de GitHub desde que la adquirió en el año 2018, por *7.500 millones de dólares* (unos 6.400 millones de euros).
+
