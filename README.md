@@ -15,3 +15,6 @@ Puedes crear proyectos *públicos*, en los que el código puede ser descargado y
 ## LA EMPRESA DETRÁS DE GITHUB
 **Microsoft** es la empresa que está detrás de GitHub desde que la adquirió en el año 2018, por *7.500 millones de dólares* (unos 6.400 millones de euros).
 
+En **2007**, la herramienta **Git** (creada por Linus Torvalds) ya existía y era muy potente para controlar los cambios en el código. El problema era que no había una forma sencilla de conectar dos ordenadores para compartir esos cambios. **Tom Preston-Werner y Chris Wanstrath** decidieron crear un sitio web donde cualquiera pudiera subir su código, decidiendo así crear ***GitHub***.
+## ¿QUÉ ES COPILOT?
+**GitHub Copilot** es un asistente de programación basado en *inteligencia artificial*, desarrollada por GitHub en colaboración con OpenAI, te ayuda a *escribir código más rápido con sugerencias de autocompletado y chat integrado*. Sugiere líneas o bloques de código completos en tiempo real mientras escribes.Funciona con docenas de lenguajes de programación, como *Python*, *JavaScript*, *TypeScript*,y *C++*. 
